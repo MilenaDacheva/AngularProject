@@ -1,0 +1,24 @@
+{
+  "name": "ngpro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "angular-animate": "^1.5.3",
+    "angular-ui-bootstrap": "^1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilenaDacheva/AngularProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilenaDacheva/AngularProject/issues"
+  },
+  "homepage": "https://github.com/MilenaDacheva/AngularProject#readme"
+}
